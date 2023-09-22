@@ -1,0 +1,65 @@
+.section-hero{
+    height: 552px;
+    background: #B0D9B1;
+}
+.sectionhero{
+    margin: 0 12rem;
+    
+}
+.hero{
+    display: flex;
+    padding-top: 5rem;
+    gap: 5rem;
+}
+.primary-heading{
+    width: 530px;
+
+flex-shrink: 0;
+color: #121612;
+font-family: Inter;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+
+margin-bottom: 0;
+}
+.hero-text{
+    width: 472px;
+flex-shrink: 0;
+color: #000;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 50px; /* 166.667% */
+}
+.button-box{
+    display: flex;
+    gap: 3rem;
+}
+.button{
+    width: 120.047px;
+    height: 45px;
+    flex-shrink: 0;
+    border-radius: 15px;
+background: #8DAE8E;
+}
+.btn-secondary{
+    background: #FFF;
+}
+.btn-link{
+flex-shrink: 0;
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+text-decoration: none;
+align-self: center;
+}
+.image{
+    width: 725px;
+height: 450px;
+flex-shrink: 0;
+}
