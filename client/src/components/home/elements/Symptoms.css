@@ -1,0 +1,49 @@
+.symptoms-section{
+    background: #EFF7EF;
+height: 550px;
+}
+.symptomSection{
+    margin: 0 12rem 0 12rem;
+}
+.symptoms{
+    padding: 3rem 0;
+}
+.secondary-heading{
+
+color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 4.5rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.content-box{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+}
+.image_sympton{
+    width: 25.7rem;
+    height: 28.4rem;
+}
+.symptom-text{
+    color: #000;
+text-align: center;
+font-family: Inter;
+font-size: 2.6rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 2rem;
+}
+.content-box{
+    transition: all .3s;
+}
+.image_sympton:hover{
+    transform: scale(1.09);
+    cursor: pointer;
+}
