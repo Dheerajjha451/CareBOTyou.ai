@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import "./Login.css";
 import loginImage from "../images/Rectangle 2.png";
 
@@ -59,7 +60,7 @@ export const Login = () => {
                 <button>Login</button>
               </form>
               <p className="login-link">
-                Don't have an account? <a href="/signup">Sign Up</a>
+                Don't have an account? <Link to="/signup">Sign Up</Link>
               </p>
             </div>
           </div>

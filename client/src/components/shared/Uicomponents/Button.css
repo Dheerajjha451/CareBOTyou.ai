@@ -1,6 +1,6 @@
 .btn-link{
     flex-shrink: 0;
-    color: #000;
+    color: white;
     text-align: center;
     font-family: Inter;
     font-size: 18px;
@@ -8,4 +8,4 @@
     font-weight: 500;
     text-decoration: none;
     align-self: center;
-    }
+}

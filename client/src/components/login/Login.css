@@ -99,7 +99,7 @@ input {
 
 button {
   background-color: #3b8a42;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 1.3rem;
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -125,6 +125,6 @@ button:hover {
 }
 
 .login-link a {
-  color: black;
+
   text-decoration: none;
 }

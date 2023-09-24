@@ -8,7 +8,7 @@ function NavBar() {
         <div className="navBar">
           <img src="" />
           <nav className="nav-bar">
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/#">
               {" "}
               Home{" "}
             </NavLink>
@@ -16,11 +16,11 @@ function NavBar() {
               {" "}
               Forum
             </NavLink>
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/blog">
               {" "}
               Blog{" "}
             </NavLink>
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/signup">
               {" "}
               Sign in{" "}
             </NavLink>

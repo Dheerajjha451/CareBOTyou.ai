@@ -1,0 +1,32 @@
+.featuredarticles-section{
+    background-color: #EFF7EF;
+    height: 100%;
+}
+.featuredarticlessection{
+    margin: 0 12rem 0 12rem;
+}
+.faturedarticle{
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+}
+.content-box-articles{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    justify-content: center;
+    gap: 3rem;
+    row-gap: 10rem;
+}
+.article-img{
+    width: 25.7rem;
+    height: 28.4rem;
+    cursor: pointer;
+}
+.article-title{
+    color: #000;
+font-family: Inter;
+font-size: 1.8rem;
+font-style: normal;
+font-weight: 700;
+line-height: 24px; /* 150% */
+}
