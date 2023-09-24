@@ -1,0 +1,39 @@
+.foruminfo-section{
+    background: #B0D9B1;
+}
+.foruminofsection{
+    margin: 0 12rem 0 12rem;
+}
+.foruminfo{
+    display: flex;
+    gap: 9rem;
+}
+.textbox-foruminfo{
+    margin-top: 6.5rem;
+}
+.secondar-heading{
+    color: #000;
+font-family: Inter;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 0;
+}
+.forumifo-text{
+    color: #000;
+font-family: Inter;
+font-size: 2.4rem;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 1.9rem;
+}
+.forum-btn{
+    margin-bottom: 3rem;
+    background: #8DAE8E;
+}
+.forum-img{
+    width: 555px;
+height: 345px;
+}

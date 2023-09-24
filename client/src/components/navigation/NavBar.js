@@ -16,7 +16,7 @@ function NavBar() {
               {" "}
               Forum
             </NavLink>
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/blog">
               {" "}
               Blog{" "}
             </NavLink>
