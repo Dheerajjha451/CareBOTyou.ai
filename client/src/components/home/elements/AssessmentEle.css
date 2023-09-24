@@ -1,0 +1,52 @@
+.assessment-section{
+    background: #EFF7EF;
+}
+.assessmentsection{
+    margin-left: 12rem;
+    margin-right: 12rem;
+    background-color: blue;
+}
+.assessment{
+    display: flex;
+    gap: 2rem;
+    padding: 5rem 0;
+}
+.image-box-asses{
+    width: 40%;
+    margin-left: 12rem;
+}
+.assessment-img{
+    width: 500px;
+height: 336px;
+
+}
+.text-box-asses{
+    width: 40%;
+
+}
+.assess-heading{
+    color: #000;
+font-family: Inter;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-align: left;
+}
+.assess-text{
+    color: #000;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 122.222% */
+    margin-bottom: 4rem;
+}
+.assess-btn{
+    border-radius: 15px;
+background: #8DAE8E;
+}
+.assess-btn:hover{
+    background-color: #f7fbf7;
+    border: .5px solid black;
+}
