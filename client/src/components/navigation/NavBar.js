@@ -8,7 +8,7 @@ function NavBar() {
         <div className="navBar">
           <img src="" />
           <nav className="nav-bar">
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/#">
               {" "}
               Home{" "}
             </NavLink>

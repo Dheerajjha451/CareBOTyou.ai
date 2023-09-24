@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+
 import img1 from "../../images/hero-img.png";
 import Button from "../../shared/Uicomponents/Button";
 import "./Hero.css";
