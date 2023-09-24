@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../elements/Hero";
 import Symptoms from "../elements/Symptoms";
 import AssessmentEle from "../elements/AssessmentEle";
+import ForumInfo from "../elements/ForumInfo";
 function Home() {
   const symptom_data = [
     {
@@ -30,6 +31,7 @@ function Home() {
       <Hero />
       <AssessmentEle />
       <Symptoms symptoms={symptom_data} />
+      <ForumInfo />
     </>
   );
 }

@@ -20,7 +20,7 @@ function NavBar() {
               {" "}
               Blog{" "}
             </NavLink>
-            <NavLink className="navlink" to="#">
+            <NavLink className="navlink" to="/signup">
               {" "}
               Sign in{" "}
             </NavLink>
