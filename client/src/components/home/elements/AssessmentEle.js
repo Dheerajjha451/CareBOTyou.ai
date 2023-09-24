@@ -1,9 +1,11 @@
 import React from "react";
 import Button from "../../shared/Uicomponents/Button";
 import img1 from "../../images/assessment-img.png";
+import InfoComp from "./InfoComp";
 import "./AssessmentEle.css";
 function AssessmentEle() {
   return (
+    <>
     <div className="assessment-section">
       <div lassName="assessmentsection">
         <div className="assessment">
@@ -27,6 +29,8 @@ function AssessmentEle() {
         </div>
       </div>
     </div>
+    <InfoComp />
+    </>
   );
 }
 

@@ -1,5 +1,6 @@
 import React from "react";
 import Card from "../../shared/Uicomponents/Card";
+
 import "./Symptoms.css";
 function Symptoms(props) {
   return (

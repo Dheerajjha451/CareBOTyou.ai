@@ -1,5 +1,6 @@
 .assessment-section{
     background: #EFF7EF;
+    padding: 0;
 }
 .assessmentsection{
     margin-left: 12rem;
@@ -22,7 +23,6 @@ height: 336px;
 }
 .text-box-asses{
     width: 40%;
-
 }
 .assess-heading{
     color: #000;
@@ -40,7 +40,7 @@ text-align: left;
     font-style: normal;
     font-weight: 400;
     line-height: 22px; /* 122.222% */
-    margin-bottom: 4rem;
+
 }
 .assess-btn{
     border-radius: 15px;

@@ -1,0 +1,21 @@
+.info-section{
+    background: #B0D9B1;
+    height: 160px;
+    margin: 0;
+}
+.infosection{
+    margin: 0 12rem 0 12rem;
+}
+.infocomp-text{
+    color: #000;
+font-family: Inter;
+font-size: 3.6rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 3rem 0;
+}
+.infocomp-text span{
+    font-weight: 700;
+    font-size: 4rem;
+}
